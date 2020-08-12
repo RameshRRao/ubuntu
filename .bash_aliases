@@ -1,0 +1,5 @@
+alias c='clear'
+alias l='ls -ltrgh'
+alias ll='ls -ltrgha'
+alias lb='lsblk -e7,11'
+alias dfh='df -h | grep -v "tmpfs\|loop"'
